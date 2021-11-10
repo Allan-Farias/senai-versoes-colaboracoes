@@ -17,4 +17,3 @@
 - git remote show
 - git remote add origin "git@github.com/repositorio_online.git"
 - git remote -v
-.gitignore
