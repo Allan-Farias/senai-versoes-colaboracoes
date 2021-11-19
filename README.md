@@ -1,4 +1,4 @@
-# VERSIONAMENTO DE CÓDIGOS COM O GIT E GITHUB
+## VERSIONAMENTO DE CÓDIGOS COM O GIT E GITHUB
 <hr>
 
 ### <p align="center"> Comandos mais utilizados: </p><br>
