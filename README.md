@@ -17,4 +17,4 @@
 - `git branch`--------------------------------------------------- > Verifica as branchs existentes no projeto;
 - `git fetch` -------------------------- > Puxar do repositorio remoto todas as branchs criadas por outro dev;
 - `git merge nomeDaBranch` ------ > Mesclar as branchs do repo local com as branchs já puxadas do repo remoto;
--  .gitignore` --------------------- > Arquivo especial que inclui os arquivos que não farão parte do projeto.
+- `.gitignore` --------------------- > Arquivo especial que inclui os arquivos que não farão parte do projeto.
